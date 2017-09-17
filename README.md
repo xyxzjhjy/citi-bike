@@ -1,4 +1,7 @@
 # citi-bike
-Add citibike.sh
+
+
+This is a project related to Citi Bike dataset
+ - September 17, 2017
 =======
-#something goes wrong
+Add citibike.sh
