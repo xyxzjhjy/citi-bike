@@ -1,4 +1,7 @@
 # citi-bike
-Add citibike.sh
+
+ citibike.sh
 =======
 #something goes wrong
+=======
+Make some changes to README
