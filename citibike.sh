@@ -1,6 +1,6 @@
 #!/bin/bash
 mkdir ../citibike_all
-cd  ../citibike_allc
+cd  ../citibike_all
 for i in $(seq 9) ; do
   wget https://witestlab.poly.edu/bikes/20160"$i"-citibike-tripdata.zip
 done
